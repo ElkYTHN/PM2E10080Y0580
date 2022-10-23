@@ -4,8 +4,8 @@
              x:Class="PM2E10080Y0580.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="#38D0BE"  Padding="24" CornerRadius="0">
-            <Label Text="ELKIN Y CARLOS" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        <Frame BackgroundColor="#38D0BE"  Padding="20" CornerRadius="0">
+            <Label Text="PM2E10080Y0580 - ELKIN Y CARLOS" HorizontalTextAlignment="Center" TextColor="White" FontSize="16"/>
         </Frame>
 
 

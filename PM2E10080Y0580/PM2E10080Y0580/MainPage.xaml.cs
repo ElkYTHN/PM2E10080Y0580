@@ -190,6 +190,7 @@ namespace PM2E10080Y0580
         private void btnSalir_Clicked(object sender, EventArgs e)
         {
 
+            System.Environment.Exit(0);
         }
 
         private void Clear()
